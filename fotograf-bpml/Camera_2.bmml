@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="988" measuredH="1085" mockupW="333" mockupH="713">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="655" y="372" w="333" h="713" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="796" y="866" w="70" h="66" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22141%2C494%2C211%2C560%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%221%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="895" y="515" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>search-plus%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::HSlider" x="735" y="522" w="153" h="-1" measuredW="33" measuredH="11" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="711" y="515" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>search-minus%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="895" y="555" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>bolt%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="895" y="592" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>map-marker%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="711" y="555" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+        <icon>reply%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C183%2C80%2C207%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%227%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="895" y="881" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Camera%26bm%3BCamera.bmml%26bm%3BCamera.bmml%26bm%3BCamera.bmml</href>
+        <icon>undo%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22240%2C509%2C264%2C533%22%20href%3D%22Camera.bmml%22%20alt%3D%22Camera%22%20id%3D%228%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="686" y="507" w="270" h="460" measuredW="1600" measuredH="1200" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>http%3A//blog.dictionary.com/wp-content/uploads/2013/11/selfie_big.jpg</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C135%2C301%2C595%22%20href%3D%22http%3A//blog.dictionary.com/wp-content/uploads/2013/11/selfie_big.jpg%22%20alt%3D%22http%3A//blog.dictionary.com/wp-content/uploads/2013/11/selfie_big.jpg%22%20id%3D%229%22%20target%3D%22_blank%22/%3E</map>
+        <src>http%3A//levelplay.com.br/wp-content/uploads/2015/08/wallpaper-de-cachorro-15.jpg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

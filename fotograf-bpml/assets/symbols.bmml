@@ -1,0 +1,577 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2208" measuredH="1066" mockupW="2148" mockupH="1050">
+  <controls>
+    <control controlID="130" controlTypeID="__group__" x="512" y="435" w="282" h="573" measuredW="282" measuredH="573" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Old%20tag%20editor</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="130">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="28" y="332" w="-1" h="-1" measuredW="226" measuredH="160" zOrder="1" locked="false" isInGroup="130">
+          <controlProperties>
+            <orientation>portrait</orientation>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="48" y="300" w="187" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="130"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="24" y="99" w="230" h="201" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="130">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="33" y="105" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="130">
+          <controlProperties>
+            <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22468%2C524%2C492%2C548%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="163" controlTypeID="__group__" x="1018" y="34" w="294" h="526" measuredW="294" measuredH="526" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>editarImagem</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="294" h="355" measuredW="1600" measuredH="1200" zOrder="0" locked="false" isInGroup="163">
+          <controlProperties>
+            <src>http%3A//levelplay.com.br/wp-content/uploads/2015/08/wallpaper-de-cachorro-15.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="14" y="430" w="-1" h="-1" measuredW="32" measuredH="39" zOrder="1" locked="false" isInGroup="163">
+          <controlProperties>
+            <icon>sun-o%7Csmall</icon>
+            <text>Brilho</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="2" y="484" w="-1" h="-1" measuredW="56" measuredH="39" zOrder="2" locked="false" isInGroup="163">
+          <controlProperties>
+            <icon>cube%7Csmall</icon>
+            <text>Saura%E7%E3o</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="2" y="370" w="-1" h="-1" measuredW="69" measuredH="39" zOrder="3" locked="false" isInGroup="163">
+          <controlProperties>
+            <icon>share-square%7Csmall</icon>
+            <text>Rotacionar%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::HSlider" x="67" y="444" w="158" h="-1" measuredW="33" measuredH="11" zOrder="4" locked="false" isInGroup="163"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::HSlider" x="67" y="500" w="158" h="-1" measuredW="33" measuredH="11" zOrder="5" locked="false" isInGroup="163"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="239" y="430" w="40" h="39" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="163">
+          <controlProperties>
+            <text>15</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="239" y="484" w="43" h="42" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="163">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="163">
+          <controlProperties>
+            <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22943%2C25%2C967%2C49%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%228%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="124" y="377" w="129" h="-1" measuredW="59" measuredH="24" zOrder="9" locked="false" isInGroup="163">
+          <controlProperties>
+            <href>Editor%20de%20imagem2%26bm%3BEditor%20de%20imagem2.bmml%26bm%3BEditor%20de%20imagem2.bmml%26bm%3BEditor%20de%20imagem2.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221065%2C395%2C1194%2C419%22%20href%3D%22Editor%2520de%2520imagem2.bmml%22%20alt%3D%22Editor%20de%20imagem2%22%20id%3D%229%22/%3E</map>
+            <state>closed</state>
+            <text>Tags%0ATag%201%0ATag%202%0ATag%203%0ATag%204%0A...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="164" controlTypeID="__group__" x="1375" y="34" w="294" h="526" measuredW="294" measuredH="526" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>editarImagem2</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="294" h="355" measuredW="1600" measuredH="1200" zOrder="0" locked="false" isInGroup="164">
+          <controlProperties>
+            <src>http%3A//levelplay.com.br/wp-content/uploads/2015/08/wallpaper-de-cachorro-15.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="11" y="430" w="32" h="-1" measuredW="32" measuredH="39" zOrder="1" locked="false" isInGroup="164">
+          <controlProperties>
+            <icon>sun-o%7Csmall</icon>
+            <text>Brilho</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="484" w="56" h="-1" measuredW="56" measuredH="39" zOrder="2" locked="false" isInGroup="164">
+          <controlProperties>
+            <icon>cube%7Csmall</icon>
+            <text>Saura%E7%E3o</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="370" w="69" h="-1" measuredW="69" measuredH="39" zOrder="3" locked="false" isInGroup="164">
+          <controlProperties>
+            <icon>share-square%7Csmall</icon>
+            <text>Rotacionar%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::HSlider" x="65" y="444" w="158" h="-1" measuredW="33" measuredH="11" zOrder="4" locked="false" isInGroup="164"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::HSlider" x="65" y="500" w="158" h="-1" measuredW="33" measuredH="11" zOrder="5" locked="false" isInGroup="164"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="237" y="430" w="40" h="39" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="164">
+          <controlProperties>
+            <text>15</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="237" y="484" w="43" h="42" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="164">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="164">
+          <controlProperties>
+            <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221298%2C25%2C1322%2C49%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%228%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="122" y="377" w="129" h="-1" measuredW="59" measuredH="109" zOrder="9" locked="false" isInGroup="164">
+          <controlProperties>
+            <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221420%2C395%2C1549%2C504%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%229%22/%3E</map>
+            <state>up</state>
+            <text>Tags%0ATag%201%0ATag%202%0ATag%203%0ATag%204%0A...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="173" controlTypeID="__group__" x="121" y="510" w="268" h="463" measuredW="268" measuredH="463" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ImagemAoClicarTags</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="268" h="373" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="173">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="373" w="268" h="90" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="173"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="173">
+          <controlProperties>
+            <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+            <icon>pencil%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C888%2C287%2C936%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="173">
+          <controlProperties>
+            <href>Pagina%20Compartilhamento%20de%20imagem%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml</href>
+            <icon>share-alt%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2273%2C888%2C121%2C936%22%20href%3D%22Pagina%2520Compartilhamento%2520de%2520imagem.bmml%22%20alt%3D%22Pagina%20Compartilhamento%20de%20imagem%22%20id%3D%223%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="110" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="173">
+          <controlProperties>
+            <href>Pagina%20de%20comentarios%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml</href>
+            <icon>comment-o%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22154%2C888%2C202%2C936%22%20href%3D%22Pagina%2520de%2520comentarios.bmml%22%20alt%3D%22Pagina%20de%20comentarios%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="12" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="173">
+          <controlProperties>
+            <href>Pop-up%20de%20informa%E7%F5es%20da%20imagem%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml</href>
+            <icon>info-circle%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22270%2C506%2C302%2C538%22%20href%3D%22Pop-up%2520de%2520informa%25C3%25A7%25C3%25B5es%2520da%2520imagem.bmml%22%20alt%3D%22Pop-up%20de%20informa%E7%F5es%20da%20imagem%22%20id%3D%225%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="173">
+          <controlProperties>
+            <href>Pagina%20das%20tags%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C504%2C79%2C528%22%20href%3D%22Pagina%2520das%2520tags.bmml%22%20alt%3D%22Pagina%20das%20tags%22%20id%3D%226%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="184" controlTypeID="__group__" x="929" y="603" w="268" h="463" measuredW="268" measuredH="463" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ImagemAoClicarCompartilhamento</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="268" h="373" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="184">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="373" w="268" h="90" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="184"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="184">
+          <controlProperties>
+            <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+            <icon>pencil%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221047%2C981%2C1095%2C1029%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="184">
+          <controlProperties>
+            <href>Pagina%20Compartilhamento%20de%20imagem%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml</href>
+            <icon>share-alt%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22881%2C981%2C929%2C1029%22%20href%3D%22Pagina%2520Compartilhamento%2520de%2520imagem.bmml%22%20alt%3D%22Pagina%20Compartilhamento%20de%20imagem%22%20id%3D%223%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="110" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="184">
+          <controlProperties>
+            <href>Pagina%20de%20comentarios%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml</href>
+            <icon>comment-o%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22962%2C981%2C1010%2C1029%22%20href%3D%22Pagina%2520de%2520comentarios.bmml%22%20alt%3D%22Pagina%20de%20comentarios%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="12" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="184">
+          <controlProperties>
+            <href>Pop-up%20de%20informa%E7%F5es%20da%20imagem%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml</href>
+            <icon>info-circle%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221078%2C599%2C1110%2C631%22%20href%3D%22Pop-up%2520de%2520informa%25C3%25A7%25C3%25B5es%2520da%2520imagem.bmml%22%20alt%3D%22Pop-up%20de%20informa%E7%F5es%20da%20imagem%22%20id%3D%225%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="184">
+          <controlProperties>
+            <href>Pagina%20Compartilhamento%20de%20imagem%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22863%2C597%2C887%2C621%22%20href%3D%22Pagina%2520Compartilhamento%2520de%2520imagem.bmml%22%20alt%3D%22Pagina%20Compartilhamento%20de%20imagem%22%20id%3D%226%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="201" controlTypeID="__group__" x="1262" y="594" w="268" h="463" measuredW="268" measuredH="463" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ImagemAoClicarCompartilhamentoAlbum</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="268" h="373" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="201">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="373" w="268" h="90" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="201"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="201">
+          <controlProperties>
+            <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+            <icon>pencil%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221380%2C972%2C1428%2C1020%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="201">
+          <controlProperties>
+            <href>Pagina%20Compartilhamento%20de%20imagem%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml</href>
+            <icon>share-alt%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221214%2C972%2C1262%2C1020%22%20href%3D%22Pagina%2520Compartilhamento%2520de%2520imagem.bmml%22%20alt%3D%22Pagina%20Compartilhamento%20de%20imagem%22%20id%3D%223%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="110" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="201">
+          <controlProperties>
+            <href>Pagina%20de%20comentarios%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml</href>
+            <icon>comment-o%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221295%2C972%2C1343%2C1020%22%20href%3D%22Pagina%2520de%2520comentarios.bmml%22%20alt%3D%22Pagina%20de%20comentarios%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="12" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="201">
+          <controlProperties>
+            <href>Pop-up%20de%20informa%E7%F5es%20da%20imagem%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml</href>
+            <icon>info-circle%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221411%2C590%2C1443%2C622%22%20href%3D%22Pop-up%2520de%2520informa%25C3%25A7%25C3%25B5es%2520da%2520imagem.bmml%22%20alt%3D%22Pop-up%20de%20informa%E7%F5es%20da%20imagem%22%20id%3D%225%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="201">
+          <controlProperties>
+            <href>Pagina%20de%20compartilhamento%20de%20album%26bm%3BPagina%20de%20compartilhamento%20de%20album.bmml%26bm%3BPagina%20de%20compartilhamento%20de%20album.bmml%26bm%3BPagina%20de%20compartilhamento%20de%20album.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221196%2C588%2C1220%2C612%22%20href%3D%22Pagina%2520de%2520compartilhamento%2520de%2520album.bmml%22%20alt%3D%22Pagina%20de%20compartilhamento%20de%20album%22%20id%3D%226%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="210" controlTypeID="__group__" x="1621" y="594" w="268" h="463" measuredW="268" measuredH="463" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ImagemAoClicarExcusao</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="268" h="373" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="210">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="373" w="268" h="90" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="210"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="210">
+          <controlProperties>
+            <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+            <icon>pencil%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221739%2C972%2C1787%2C1020%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="210">
+          <controlProperties>
+            <href>Pagina%20Compartilhamento%20de%20imagem%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml</href>
+            <icon>share-alt%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221573%2C972%2C1621%2C1020%22%20href%3D%22Pagina%2520Compartilhamento%2520de%2520imagem.bmml%22%20alt%3D%22Pagina%20Compartilhamento%20de%20imagem%22%20id%3D%223%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="110" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="210">
+          <controlProperties>
+            <href>Pagina%20de%20comentarios%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml</href>
+            <icon>comment-o%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221654%2C972%2C1702%2C1020%22%20href%3D%22Pagina%2520de%2520comentarios.bmml%22%20alt%3D%22Pagina%20de%20comentarios%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="12" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="210">
+          <controlProperties>
+            <href>Pop-up%20de%20informa%E7%F5es%20da%20imagem%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml</href>
+            <icon>info-circle%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221770%2C590%2C1802%2C622%22%20href%3D%22Pop-up%2520de%2520informa%25C3%25A7%25C3%25B5es%2520da%2520imagem.bmml%22%20alt%3D%22Pop-up%20de%20informa%E7%F5es%20da%20imagem%22%20id%3D%225%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="210">
+          <controlProperties>
+            <href>Pagina%20de%20exclus%E3o%26bm%3BPagina%20de%20exclus%E3o.bmml%26bm%3BPagina%20de%20exclus%E3o.bmml%26bm%3BPagina%20de%20exclus%E3o.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221555%2C588%2C1579%2C612%22%20href%3D%22Pagina%2520de%2520exclus%25C3%25A3o.bmml%22%20alt%3D%22Pagina%20de%20exclus%E3o%22%20id%3D%226%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="219" controlTypeID="__group__" x="1940" y="594" w="268" h="463" measuredW="268" measuredH="463" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ImagemAoClicarBusca</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="268" h="373" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="219">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="373" w="268" h="90" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="219"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="219">
+          <controlProperties>
+            <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+            <icon>pencil%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222058%2C972%2C2106%2C1020%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="219">
+          <controlProperties>
+            <href>Pagina%20Compartilhamento%20de%20imagem%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml</href>
+            <icon>share-alt%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221892%2C972%2C1940%2C1020%22%20href%3D%22Pagina%2520Compartilhamento%2520de%2520imagem.bmml%22%20alt%3D%22Pagina%20Compartilhamento%20de%20imagem%22%20id%3D%223%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="110" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="219">
+          <controlProperties>
+            <href>Pagina%20de%20comentarios%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml</href>
+            <icon>comment-o%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221973%2C972%2C2021%2C1020%22%20href%3D%22Pagina%2520de%2520comentarios.bmml%22%20alt%3D%22Pagina%20de%20comentarios%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="12" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="219">
+          <controlProperties>
+            <href>Pop-up%20de%20informa%E7%F5es%20da%20imagem%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml</href>
+            <icon>info-circle%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222089%2C590%2C2121%2C622%22%20href%3D%22Pop-up%2520de%2520informa%25C3%25A7%25C3%25B5es%2520da%2520imagem.bmml%22%20alt%3D%22Pop-up%20de%20informa%E7%F5es%20da%20imagem%22%20id%3D%225%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="219">
+          <controlProperties>
+            <href>Pagina%20de%20busca%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221874%2C588%2C1898%2C612%22%20href%3D%22Pagina%2520de%2520busca.bmml%22%20alt%3D%22Pagina%20de%20busca%22%20id%3D%226%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="239" controlTypeID="__group__" x="77" y="16" w="268" h="463" measuredW="268" measuredH="463" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ImagemAoClicar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="268" h="373" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="239">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="373" w="268" h="90" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="239"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="195" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="239">
+          <controlProperties>
+            <href>Editor%20de%20imagem%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml%26bm%3BEditor%20de%20imagem.bmml</href>
+            <icon>pencil%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22195%2C394%2C243%2C442%22%20href%3D%22Editor%2520de%2520imagem.bmml%22%20alt%3D%22Editor%20de%20imagem%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="239">
+          <controlProperties>
+            <href>Pagina%20Compartilhamento%20de%20imagem%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml%26bm%3BPagina%20Compartilhamento%20de%20imagem.bmml</href>
+            <icon>share-alt%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C394%2C77%2C442%22%20href%3D%22Pagina%2520Compartilhamento%2520de%2520imagem.bmml%22%20alt%3D%22Pagina%20Compartilhamento%20de%20imagem%22%20id%3D%223%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="110" y="394" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="239">
+          <controlProperties>
+            <href>Pagina%20de%20comentarios%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml%26bm%3BPagina%20de%20comentarios.bmml</href>
+            <icon>comment-o%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22110%2C394%2C158%2C442%22%20href%3D%22Pagina%2520de%2520comentarios.bmml%22%20alt%3D%22Pagina%20de%20comentarios%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="12" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="239">
+          <controlProperties>
+            <href>Pop-up%20de%20informa%E7%F5es%20da%20imagem%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml%26bm%3BPop-up%20de%20informa%E7%F5es%20da%20imagem.bmml</href>
+            <icon>info-circle%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22226%2C12%2C258%2C44%22%20href%3D%22Pop-up%2520de%2520informa%25C3%25A7%25C3%25B5es%2520da%2520imagem.bmml%22%20alt%3D%22Pop-up%20de%20informa%E7%F5es%20da%20imagem%22%20id%3D%225%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="239">
+          <controlProperties>
+            <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+            <icon>reply%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2211%2C10%2C35%2C34%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%226%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="255" controlTypeID="com.balsamiq.mockups::Canvas" x="536" y="185" w="287" h="47" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="256" controlTypeID="com.balsamiq.mockups::IconLabel" x="551" y="189" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pagina%20Configura%E7%F5es%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml</href>
+        <icon>user%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22474%2C173%2C520%2C212%22%20href%3D%22Pagina%2520Configura%25C3%25A7%25C3%25B5es.bmml%22%20alt%3D%22Pagina%20Configura%E7%F5es%22%20id%3D%22256%22/%3E</map>
+        <text>Usuario</text>
+      </controlProperties>
+    </control>
+    <control controlID="257" controlTypeID="com.balsamiq.mockups::Icon" x="603" y="192" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pagina%20das%20tags%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml</href>
+        <icon>tags%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C176%2C558%2C208%22%20href%3D%22Pagina%2520das%2520tags.bmml%22%20alt%3D%22Pagina%20das%20tags%22%20id%3D%22257%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="258" controlTypeID="com.balsamiq.mockups::ComboBox" x="735" y="196" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Ordenar%0ATag%0AData%0ANome</text>
+      </controlProperties>
+    </control>
+    <control controlID="259" controlTypeID="com.balsamiq.mockups::SearchBox" x="643" y="196" w="85" h="-1" measuredW="120" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pagina%20de%20busca%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22566%2C180%2C651%2C205%22%20href%3D%22Pagina%2520de%2520busca.bmml%22%20alt%3D%22Pagina%20de%20busca%22%20id%3D%22259%22/%3E</map>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="260" controlTypeID="__group__" x="543" y="274" w="287" h="47" measuredW="287" measuredH="47" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Cabe%E7alho</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="287" h="47" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="260"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="15" y="4" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="1" locked="false" isInGroup="260">
+          <controlProperties>
+            <href>Pagina%20Configura%E7%F5es%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml</href>
+            <icon>user%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22481%2C262%2C527%2C301%22%20href%3D%22Pagina%2520Configura%25C3%25A7%25C3%25B5es.bmml%22%20alt%3D%22Pagina%20Configura%E7%F5es%22%20id%3D%221%22/%3E</map>
+            <text>Usuario</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="82" y="7" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="260">
+          <controlProperties>
+            <href>Pagina%20das%20tags%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml</href>
+            <icon>tags%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22548%2C265%2C580%2C297%22%20href%3D%22Pagina%2520das%2520tags.bmml%22%20alt%3D%22Pagina%20das%20tags%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="199" y="11" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="3" locked="false" isInGroup="260">
+          <controlProperties>
+            <href>pagPirncipal2%26bm%3BpagPirncipal2.bmml%26bm%3BpagPirncipal2.bmml%26bm%3BpagPirncipal2.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22665%2C269%2C745%2C293%22%20href%3D%22pagPirncipal2.bmml%22%20alt%3D%22pagPirncipal2%22%20id%3D%223%22/%3E</map>
+            <state>closed</state>
+            <text>Ordenar%0ATag%0AData%0ANome</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="129" y="11" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="260">
+          <controlProperties>
+            <href>Pagina%20de%20busca%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml</href>
+            <icon>search%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22595%2C269%2C619%2C293%22%20href%3D%22Pagina%2520de%2520busca.bmml%22%20alt%3D%22Pagina%20de%20busca%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="267" controlTypeID="__group__" x="515" y="59" w="287" h="89" measuredW="287" measuredH="89" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Cabe%E7alho2</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="287" h="47" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="267"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="15" y="4" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="1" locked="false" isInGroup="267">
+          <controlProperties>
+            <href>Pagina%20Configura%E7%F5es%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml</href>
+            <icon>user%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22453%2C47%2C499%2C86%22%20href%3D%22Pagina%2520Configura%25C3%25A7%25C3%25B5es.bmml%22%20alt%3D%22Pagina%20Configura%E7%F5es%22%20id%3D%221%22/%3E</map>
+            <text>Usuario</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="76" y="7" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="267">
+          <controlProperties>
+            <href>Pagina%20das%20tags%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml</href>
+            <icon>tags%7Cmedium</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22514%2C50%2C546%2C82%22%20href%3D%22Pagina%2520das%2520tags.bmml%22%20alt%3D%22Pagina%20das%20tags%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="199" y="11" w="-1" h="-1" measuredW="80" measuredH="78" zOrder="3" locked="false" isInGroup="267">
+          <controlProperties>
+            <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22637%2C54%2C717%2C132%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%223%22/%3E</map>
+            <state>up</state>
+            <text>Ordenar%0ATag%0AData%0ANome</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="135" y="11" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="267">
+          <controlProperties>
+            <href>Pagina%20de%20busca%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml</href>
+            <icon>search%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22573%2C54%2C597%2C78%22%20href%3D%22Pagina%2520de%2520busca.bmml%22%20alt%3D%22Pagina%20de%20busca%22%20id%3D%224%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="268" controlTypeID="__group__" x="60" y="20" w="287" h="47" measuredW="287" measuredH="47" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Cabecalho</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="287" h="47" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="268"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="15" y="4" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="1" locked="false" isInGroup="268">
+          <controlProperties>
+            <href>Pagina%20Configura%E7%F5es%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml%26bm%3BPagina%20Configura%E7%F5es.bmml</href>
+            <icon>user%7Csmall</icon>
+            <text>Usuario</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="67" y="7" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="268">
+          <controlProperties>
+            <href>Pagina%20das%20tags%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml%26bm%3BPagina%20das%20tags.bmml</href>
+            <icon>tags%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="199" y="11" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="3" locked="false" isInGroup="268">
+          <controlProperties>
+            <href>pagPirncipal2%26bm%3BpagPirncipal2.bmml%26bm%3BpagPirncipal2.bmml%26bm%3BpagPirncipal2.bmml</href>
+            <state>closed</state>
+            <text>Ordenar%0ATag%0AData%0ANome</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="107" y="11" w="85" h="-1" measuredW="120" measuredH="25" zOrder="4" locked="false" isInGroup="268">
+          <controlProperties>
+            <href>Pagina%20de%20busca%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml%26bm%3BPagina%20de%20busca.bmml</href>
+            <text>search</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

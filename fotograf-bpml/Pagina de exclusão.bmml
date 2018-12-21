@@ -1,0 +1,215 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="897" measuredH="831" mockupW="423" mockupH="758">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="474" y="73" w="423" h="758" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="542" y="207" w="287" h="47" measuredW="287" measuredH="47" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C138%2C129%2C177%22%20href%3D%22Pagina%2520Configura%25C3%25A7%25C3%25B5es.bmml%22%20alt%3D%22Pagina%20Configura%E7%F5es%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22135%2C141%2C167%2C173%22%20href%3D%22Pagina%2520das%2520tags.bmml%22%20alt%3D%22Pagina%20das%20tags%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22175%2C145%2C260%2C170%22%20href%3D%22Pagina%2520de%2520busca.bmml%22%20alt%3D%22Pagina%20de%20busca%22%20id%3D%224%22/%3E</map>
+        <src>./assets/symbols.bmml#Cabe%C3%A7alho</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="555" y="288" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C215%2C158%2C294%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%224%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="547" y="279" w="287" h="355" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="640" y="288" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22166%2C215%2C243%2C294%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%226%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="724" y="288" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22250%2C215%2C327%2C294%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%227%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="555" y="372" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C299%2C158%2C378%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%228%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="640" y="372" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22166%2C299%2C243%2C378%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%229%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="724" y="372" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22250%2C299%2C327%2C378%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%2210%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="555" y="459" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C386%2C158%2C465%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%2211%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="640" y="459" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22166%2C386%2C243%2C465%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%2212%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="724" y="459" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22250%2C386%2C327%2C465%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%2217%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="807" y="288" w="-1" h="337" measuredW="16" measuredH="100" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Icon" x="555" y="654" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>trash%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextArea" x="618" y="640" w="196" h="76" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Toque%20nas%20fotos%20de%20deseja%20excluir%20para%20selecionar%2C%20depois%20toque%20no%20icone%20de%20lixeira%20a%20esquerda</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Image" x="555" y="546" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C473%2C158%2C552%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%2224%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="640" y="546" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22166%2C473%2C243%2C552%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%2225%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="724" y="546" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>imagemAumentadaExclus%E3o%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml%26bm%3BimagemAumentadaExclus%E3o.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22250%2C473%2C327%2C552%22%20href%3D%22imagemAumentadaExclus%25C3%25A3o.bmml%22%20alt%3D%22imagemAumentadaExclus%E3o%22%20id%3D%2226%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="555" y="255" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+        <icon>reply%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C182%2C105%2C206%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%2227%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::CheckBox" x="647" y="546" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22173%2C473%2C193%2C494%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2241%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::CheckBox" x="559" y="546" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C473%2C105%2C494%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2242%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::CheckBox" x="732" y="459" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22258%2C386%2C278%2C407%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2243%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::CheckBox" x="647" y="459" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22173%2C386%2C193%2C407%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2244%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::CheckBox" x="557" y="459" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C386%2C103%2C407%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2245%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::CheckBox" x="732" y="374" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22258%2C301%2C278%2C322%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2246%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::CheckBox" x="647" y="374" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22173%2C301%2C193%2C322%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2247%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::CheckBox" x="559" y="374" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C301%2C105%2C322%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2248%22/%3E</map>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::CheckBox" x="732" y="288" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22258%2C215%2C278%2C236%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2249%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::CheckBox" x="647" y="288" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22173%2C215%2C193%2C236%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2250%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::CheckBox" x="559" y="288" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C215%2C105%2C236%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2251%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::CheckBox" x="732" y="546" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>exclusao2%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml%26bm%3Bexclusao2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22258%2C473%2C278%2C494%22%20href%3D%22exclusao2.bmml%22%20alt%3D%22exclusao2%22%20id%3D%2252%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

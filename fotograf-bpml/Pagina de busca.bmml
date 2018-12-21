@@ -1,0 +1,72 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="828" measuredH="758" mockupW="423" mockupH="758">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="405" y="0" w="423" h="758" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="474" y="136" w="287" h="47" measuredW="287" measuredH="47" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2284%2C140%2C130%2C179%22%20href%3D%22Pagina%2520Configura%25C3%25A7%25C3%25B5es.bmml%22%20alt%3D%22Pagina%20Configura%E7%F5es%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22136%2C143%2C168%2C175%22%20href%3D%22Pagina%2520das%2520tags.bmml%22%20alt%3D%22Pagina%20das%20tags%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22176%2C147%2C261%2C172%22%20href%3D%22Pagina%2520de%2520busca.bmml%22%20alt%3D%22Pagina%20de%20busca%22%20id%3D%224%22/%3E</map>
+        <src>./assets/symbols.bmml#Cabe%C3%A7alho</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="480" y="230" w="273" h="410" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="505" y="195" w="222" h="-1" measuredW="164" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Resultado%20da%20busca</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="495" y="258" w="109" h="102" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>imagemAumentadaBusca%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C258%2C199%2C360%22%20href%3D%22imagemAumentadaBusca.bmml%22%20alt%3D%22imagemAumentadaBusca%22%20id%3D%224%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="619" y="259" w="108" h="101" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>imagemAumentadaBusca%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22214%2C259%2C322%2C360%22%20href%3D%22imagemAumentadaBusca.bmml%22%20alt%3D%22imagemAumentadaBusca%22%20id%3D%225%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="495" y="375" w="108" h="101" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>imagemAumentadaBusca%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C375%2C198%2C476%22%20href%3D%22imagemAumentadaBusca.bmml%22%20alt%3D%22imagemAumentadaBusca%22%20id%3D%227%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="619" y="375" w="108" h="101" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>imagemAumentadaBusca%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22214%2C375%2C322%2C476%22%20href%3D%22imagemAumentadaBusca.bmml%22%20alt%3D%22imagemAumentadaBusca%22%20id%3D%228%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="495" y="491" w="108" h="101" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>imagemAumentadaBusca%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C491%2C198%2C592%22%20href%3D%22imagemAumentadaBusca.bmml%22%20alt%3D%22imagemAumentadaBusca%22%20id%3D%229%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="619" y="491" w="108" h="101" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>imagemAumentadaBusca%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml%26bm%3BimagemAumentadaBusca.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22214%2C491%2C322%2C592%22%20href%3D%22imagemAumentadaBusca.bmml%22%20alt%3D%22imagemAumentadaBusca%22%20id%3D%2210%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="495" y="607" w="232" h="-1" measuredW="100" measuredH="16" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="474" y="193" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Fotograf_paginaPrincipal%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml%26bm%3BFotograf_paginaPrincipal.bmml</href>
+        <icon>reply%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2269%2C193%2C93%2C217%22%20href%3D%22Fotograf_paginaPrincipal.bmml%22%20alt%3D%22Fotograf_paginaPrincipal%22%20id%3D%2214%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
